@@ -27,6 +27,5 @@ fn main() -> io::Result<()> {
             println!("Result: {:?}", result);
         }
     }
-
     Ok(())
 }
